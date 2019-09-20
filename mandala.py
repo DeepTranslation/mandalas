@@ -1,7 +1,8 @@
 # Load in libraries
-library(ggplot2)
-library(dplyr)
-library(deldir)
+#library(ggplot2)
+#library(dplyr)
+#library(deldir)
+from matplotlib import pyplot
 
 # Parameters to change as you like
 iter=3 # Number of iterations (depth)
